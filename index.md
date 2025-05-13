@@ -2,7 +2,7 @@
 title: Tanay Yeole
 feature_text: |
   
-feature_image: "https://raw.githubusercontent.com/TanayY/TanayY.github.io/refs/heads/main/assets/bgbg.png"
+feature_image: "https://raw.githubusercontent.com/TanayY/TanayY.github.io/refs/heads/main/assets/bgbg.gif"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 #### Hi there👋
