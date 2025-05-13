@@ -1,8 +1,8 @@
 ---
-title: About Alembic
+title: Tanay Yeole
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## TanayY
+  Data Scientist | ML Engineer | AI Engineer
 feature_image: "https://raw.githubusercontent.com/TanayY/TanayY.github.io/refs/heads/main/assets/bgbg.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
