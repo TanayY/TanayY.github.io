@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "https://raw.githubusercontent.com/TanayY/TanayY.github.io/refs/heads/main/assets/bgbg.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-# Hi there, I'm Tanay Yeole 👋
+## Hi there👋
 
 I'm a **Data Scientist** with a passion for turning complex data into actionable insights. With extensive experience in developing machine learning models, I solve business problems in domains like power generation, e-commerce, and healthcare. My work has improved decision-making efficiency by up to 50% and increased model accuracy by 80%.
 
