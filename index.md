@@ -9,7 +9,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 I'm a **Data Scientist** with a passion for turning complex data into actionable insights. With extensive experience in developing machine learning models, I solve business problems in domains like power generation, e-commerce, and healthcare. My work has improved decision-making efficiency by up to 50% and increased model accuracy by 80%.
 
-#### 🔧 Skills & Tools
+#### Skills & Tools 🔧
 
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Visualization, Data Cleaning, Preprocessing
 - **Machine Learning:** Regression, Classification, Clustering, Neural Networks, Deep Learning, Time Series Analysis, Statistical Modeling, Predictive Analytics, NLP
@@ -17,7 +17,7 @@ I'm a **Data Scientist** with a passion for turning complex data into actionable
 - **Tools & Technologies:** Jupyter Notebook, Tableau, Power BI, Git, AWS, Hadoop, Spark
 - **Techniques:** Feature Engineering, Hyperparameter Tuning, Model Deployment, Data Governance
 
-#### 🏆 Experience & Achievements
+#### Experience & Achievements 🏆
 
 - **Freelance Data Scientist at Krios (Client: Mahindra Powerol)**
   - Developed a chained multi-output regression model that improved demand forecasting accuracy to 75%.
@@ -30,19 +30,19 @@ I'm a **Data Scientist** with a passion for turning complex data into actionable
 - **Intern at Ydealogy Ventures**
   - Created an application to extract data from AutoCAD DXF files and determine geometric centers for precise robotic instructions.
 
-#### 🎓 Education
+#### Education 🎓
 
-- **MS in Data Science** | Liverpool John Moores University
-- **B.Tech in Computer Science and Engineering** | SRM University, Chennai
-- **Executive Post Graduate Diploma in Data Science**
+- **MS in Data Science**  (Liverpool John Moores University)
+- **B.Tech in Computer Science and Engineering**  (SRM University, Chennai)
+- **Executive Post Graduate Diploma in Data Science** (IIIT Bangalore)
 
-#### 🚀 Projects
+#### Projects 🚀
 
 - **Ecommerce Platform:** Built with ReactJS, Python, FastAPI, MongoDB, and Azure.
 - **T-Shirt Recommendation System:** Developed using NLP techniques such as TF-IDF, bag-of-words, and deep learning.
 - **Melanoma Detection:** Created a Convolutional Neural Network (CNN) with Keras to enhance early detection rates.
 
-#### 🤝 Let's Connect
+#### Let's Connect 🤝
 
 - **Email:** [yeole.tanay212@gmail.com](mailto:yeole.tanay212@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tanay-yeole](https://www.linkedin.com/in/tanay-yeole/)
